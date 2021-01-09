@@ -1,9 +1,0 @@
-Version 2.0.0 Versión Inicial
-Version 2.1.0 Modificado para Kodi 17
-Version 2.2.0 Mejorada la sección Do A ao Z
-Version 2.2.2 Arregaldos bugs en seccion novedades
-Version 2.2.3 Añadida sección de emisiones en directo
-Version 2.2.4 Amañado bug emisions en directo que non reproducía correctamente.
-Version 2.2.5 Engadida Radio Galega
-Version 2.2.6 Amañado -> Información de emisions en directo.
-
