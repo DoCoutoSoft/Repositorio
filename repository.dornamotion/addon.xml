@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.DornaMotion" name="[COLOR gold]DornaMotion[/COLOR] Repo" version="1.0.1" provider-name="DoCoutoSoft">
     <extension point="xbmc.addon.repository" name="DornaMotion Repo">
-        <info>https://https://docoutosoft.github.io/Repositorio/addons.xml</info>
+        <info>https://docoutosoft.github.io/Repositorio/addons.xml</info>
         <checksum>https://docoutosoft.github.io/Repositorio/addons.xml.md5</checksum>
         <datadir zip="true">https://docoutosoft.github.io/Repositorio/</datadir>
     </extension>
