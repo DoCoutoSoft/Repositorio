@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="repository.Palantir" name="[COLOR gold]Palantir[/COLOR] Repo" version="1.0.1" provider-name="TierraMedia">
-    <extension point="xbmc.addon.repository" name="Palantir Repo">
+<addon id="repository.dornamotion" name="[COLOR gold]DornaMotion[/COLOR] Repo" version="1.0.1" provider-name="Canal DornaMotion">
+    <extension point="xbmc.addon.repository" name="DornaMotion Repo">
         <info>https://raw.githubusercontent.com/DoCoutoSoft/Repositorio/master/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/DoCoutoSoft/Repositorio/master/addons.xml.md5</checksum>
         <datadir zip="true">https://raw.githubusercontent.com/DoCoutoSoft/Repositorio/master/</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>Repositorio para Palantir</summary>
+        <summary>Repositorio DornaMotion</summary>
         <description></description>
         <disclaimer></disclaimer>
         <platform>all</platform>
     </extension>
 </addon>
+
     <addon id="plugin.video.crtvg-acarta" name="[COLOR cyan]CRTVG[/COLOR] - Televisión de Galicia" provider-name="Canal DornaMotion" version="2.2.6">
         <requires>
             <import addon="xbmc.python" version="2.1.0">
@@ -58,7 +59,7 @@
         </extension>
     </addon>
 
-	<addon id="plugin.audio.dorna-tuner" name="Dorna Tuner" provider-name="DORNA MOTION" version="1.5.8">
+	<addon id="plugin.audio.dorna-tuner" name="Dorna Tuner" provider-name="Canal DornaMotion" version="1.5.8">
 			<requires>
 				<import addon="xbmc.python" version="2.1.0"/>
 				<import addon="script.module.requests" version="2.9.1"/>

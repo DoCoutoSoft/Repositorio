@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.audio.dorna-tuner" name="Dorna Tuner" provider-name="DORNA MOTION" version="1.5.8">
+<addon id="plugin.audio.dorna-tuner" name="Dorna Tuner" provider-name="Canal DornaMotion" version="1.5.8">
 			<requires>
 				<import addon="xbmc.python" version="2.1.0"/>
 				<import addon="script.module.requests" version="2.9.1"/>
