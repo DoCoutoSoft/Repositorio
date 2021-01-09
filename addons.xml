@@ -4,13 +4,13 @@
         <extension name="DornaMotion Repositorio" point="xbmc.addon.repository">
             <dir>
                 <info compressed="false">
-                    https://raw.githubusercontent.com/DoCoutoSoft/Repositorio/master/ addons.xml
+                    https://docoutosoft.github.io/Repositorio/addons.xml
                 </info>
                 <checksum>
-                    https://raw.githubusercontent.com/DoCoutoSoft/Repositorio/master/ addons.xml.md5
+                    https://docoutosoft.github.io/Repositorio/addons.xml.md5
                 </checksum>
                 <datadir zip="true">
-                    https://raw.githubusercontent.com/DoCoutoSoft/Repositorio/master/ 
+                    https://docoutosoft.github.io/Repositorio/ 
                 </datadir>
             </dir>
         </extension>
@@ -49,13 +49,13 @@
             </provides>
             <dir>
                 <info compressed="false">
-                    https://raw.githubusercontent.com/DoCoutoSoft/Repositorio/master/ addons.xml
+                    https://docoutosoft.github.io/Repositorio/addons.xml
                 </info>
                 <checksum>
-                    https://raw.githubusercontent.com/DoCoutoSoft/Repositorio/master/ addons.xml.md5
+                    https://docoutosoft.github.io/Repositorio/addons.xml.md5
                 </checksum>
                 <datadir zip="true">
-                    https://raw.githubusercontent.com/DoCoutoSoft/Repositorio/master/ 
+                    https://docoutosoft.github.io/Repositorio/ 
                 </datadir>
             </dir>
         </extension>
@@ -113,9 +113,9 @@
 				</assets>
 			</extension>
 			<extension point="xbmc.addon.repository">
-				<info>https://raw.githubusercontent.com/DoCoutoSoft/Repositorio/master/ addons.xml</info>
-				<checksum>https://raw.githubusercontent.com/DoCoutoSoft/Repositorio/master/ addons.xml.md5</checksum>
-				<datadir zip="true">https://raw.githubusercontent.com/DoCoutoSoft/Repositorio/master/ </datadir>
+				<info>https://docoutosoft.github.io/Repositorio/addons.xml</info>
+				<checksum>https://docoutosoft.github.io/Repositorio/addons.xml.md5</checksum>
+				<datadir zip="true">https://docoutosoft.github.io/Repositorio/ </datadir>
 			</extension>
 	</addon>
 </addons>
