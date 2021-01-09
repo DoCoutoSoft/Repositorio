@@ -31,8 +31,8 @@
 				</assets>
 			</extension>
 			<extension point="xbmc.addon.repository">
-				<info>https://docoutosoft.github.io/Repositorio/addons.xml</info>
-				<checksum>https://docoutosoft.github.io/Repositorio/addons.xml.md5</checksum>
-				<datadir zip="true">https://docoutosoft.github.io/Repositorio/</datadir>
+				<info>https://raw.githubusercontent.com/DoCoutoSoft/Repositorio/master/addons.xml</info>
+				<checksum>https://raw.githubusercontent.com/DoCoutoSoft/Repositorio/master/addons.xml.md5</checksum>
+				<datadir zip="true">https://raw.githubusercontent.com/DoCoutoSoft/Repositorio/master/</datadir>
 			</extension>
 </addon>

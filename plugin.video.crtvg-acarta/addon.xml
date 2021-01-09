@@ -12,13 +12,13 @@
             </provides>
             <dir>
                 <info compressed="false">
-                    https://docoutosoft.github.io/Repositorio/addons.xml
+                    https://raw.githubusercontent.com/DoCoutoSoft/Repositorio/master/addons.xml
                 </info>
                 <checksum>
-                    https://docoutosoft.github.io/Repositorio/addons.xml.md5
+                    https://raw.githubusercontent.com/DoCoutoSoft/Repositorio/master/addons.xml.md5
                 </checksum>
                 <datadir zip="true">
-                    https://docoutosoft.github.io/Repositorio/
+                    https://raw.githubusercontent.com/DoCoutoSoft/Repositorio/master/
                 </datadir>
             </dir>
         </extension>
