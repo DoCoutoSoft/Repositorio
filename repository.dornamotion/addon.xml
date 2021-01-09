@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+    <addon id="dornamotion.repository" name="[COLOR blue]Dorna[/COLOR][COLOR orange]Motion[/COLOR].[COLOR green]Repositorio[/COLOR]" provider-name="Canal DornaMotion" version="0.0.4">
+        <extension name="DornaMotion Repositorio" point="xbmc.addon.repository">
+            <dir>
+                <info compressed="false">
+                    http://dboxnet.no-ip.org/kodi.plugins/Repositorio/addons.xml
+                </info>
+                <checksum>
+                    http://dboxnet.no-ip.org/kodi.plugins/Repositorio/addons.xml.md5
+                </checksum>
+                <datadir zip="true">
+                    http://dboxnet.no-ip.org/kodi.plugins/Repositorio/
+                </datadir>
+            </dir>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary lang="es">
+                DornaMotion
+            </summary>
+            <description lang="es">
+                Canal Dorna Motion
+            </description>
+            <forum>
+                en breve
+            </forum>
+            <website>
+                en breve
+            </website>
+            <email>
+                dornamotion@gmail.com
+            </email>
+            <platform>
+                all
+            </platform>
+        </extension>
+    </addon>

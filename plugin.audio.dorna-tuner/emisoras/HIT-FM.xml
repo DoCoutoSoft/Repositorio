@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<source>
+  <stream bitrate="128">http://85.214.82.94:8004/</stream>?
+  <stream bitrate="32">http://85.214.82.94:8004/</stream>
+  <name>HIT FM</name>
+  <tagline>Musical</tagline>
+  <description>Hit FM es una cadena de radio perteneciente al grupo KISS Media</description>
+  <genre>Musical</genre>
+  <fanart>hit-fm-fanart.png</fanart>
+  <thumb>hit-fm-thumb.png</thumb>
+  <sort>2</sort>
+  <scraper type="tunein">
+    <url>https://tunein.com/radio/Hits-FM-s54674/</url>
+    <delay>20</delay>
+  </scraper>
+</source>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<source>
+  <stream bitrate="128">http://megastar.cope.stream.flumotion.com/cope/megastar/playlist.m3u8</stream>?
+  <stream bitrate="32">http://megastar.cope.stream.flumotion.com/cope/megastar/playlist.m3u8</stream>
+  <name>MegaStar FM</name>
+  <tagline>Audio</tagline>
+  <description>MegaStar FM (a veces estilizado como MegaStarFM) es una cadena de radio de ambito nacional que emite una radioformula dirigida para adolescentes y jovenes</description>
+  <genre>Musical</genre>
+  <fanart>MegaStar-FM-fanart.png</fanart>
+  <thumb>MegaStar-FM-thumb.png</thumb>
+  <sort>5</sort>
+  <scraper type="tunein">
+    <url>https://tunein.com/radio/MegaStarFM-1007-s148264/</url>
+    <delay>20</delay>
+  </scraper>
+</source>

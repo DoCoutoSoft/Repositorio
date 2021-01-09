@@ -1,0 +1,38 @@
+# Kodi Media Center language file
+# Addon Name: Streaming Radio
+# Addon id: plugin.audio.dorna-turner
+# Addon Provider: DORNA MOTION
+
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC Skins\n"
+"Report-Msgid-Bugs-To: dornamotion@gmail.com\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: DORNA MOTION\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#30001"
+msgid "Maximum bitrate"
+msgstr "Bitrate maximo"
+
+msgctxt "#30002"
+msgid "Display track information by modifying the skin"
+msgstr "Mostrar informacion de pista, modificando el skin"
+
+msgctxt "#30003"
+msgid "Track information can be displayed by modifying the skin."
+msgstr "La información de pista, puede ser mostrada, modificando el skin"
+
+msgctxt "#30004"
+msgid "Would you like to allow this?"
+msgstr "¿Deseas permitir esto?"
+
+msgctxt "#30005"
+msgid "Remove all skin modifications"
+msgstr "Deshacer todas las modificaciones del skin"

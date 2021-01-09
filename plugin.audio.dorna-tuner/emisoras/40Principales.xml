@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<source>
+	<stream bitrate="128">http://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3</stream>
+	<stream bitrate="32">http://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3</stream>
+	<name>40 Principales</name>
+	<tagline>Musical</tagline>
+	<description>Los 40 es una cadena de emisoras de radio creada en España en 1966, propiedad de PRISA Radio y con versiones en 13 países. Es la emisora de radio temática más escuchada del país con 2.871.000 oyentes, según la 2ª oleada del EGM de 2017</description>
+	<genre>Top</genre>
+	<fanart>los-40-fanart.png</fanart>
+	<thumb>los-40-thumb.png</thumb>
+	<sort>1</sort>
+	<scraper type="tunein">
+		<url>https://tunein.com/radio/Los-40-917-s1534/</url>
+		<delay>20</delay>
+	</scraper>
+</source>
