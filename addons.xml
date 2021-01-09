@@ -33,8 +33,8 @@
                     https://docoutosoft.github.io/Repositorio/addons.xml.md5
                 </checksum>
                 <datadir zip="true">
-                    https://docoutosoft.github.io/Repositorio/ 
-                </datadir>
+                    https://docoutosoft.github.io/Repositorio/
+				</datadir>
             </dir>
         </extension>
         <extension point="xbmc.addon.metadata">
@@ -93,7 +93,7 @@
 			<extension point="xbmc.addon.repository">
 				<info>https://docoutosoft.github.io/Repositorio/addons.xml</info>
 				<checksum>https://docoutosoft.github.io/Repositorio/addons.xml.md5</checksum>
-				<datadir zip="true">https://docoutosoft.github.io/Repositorio/ </datadir>
+				<datadir zip="true">https://docoutosoft.github.io/Repositorio/</datadir>
 			</extension>
 	</addon>
 </addons>
