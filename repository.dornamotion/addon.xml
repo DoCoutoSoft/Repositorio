@@ -3,13 +3,13 @@
         <extension name="DornaMotion Repositorio" point="xbmc.addon.repository">
             <dir>
                 <info compressed="false">
-                    http://dboxnet.no-ip.org/kodi.plugins/Repositorio/addons.xml
+                    https://raw.githubusercontent.com/DoCoutoSoft/Repositorio/master/addons.xml
                 </info>
                 <checksum>
-                    http://dboxnet.no-ip.org/kodi.plugins/Repositorio/addons.xml.md5
+                    https://raw.githubusercontent.com/DoCoutoSoft/Repositorio/master/addons.xml.md5
                 </checksum>
                 <datadir zip="true">
-                    http://dboxnet.no-ip.org/kodi.plugins/Repositorio/
+                    https://raw.githubusercontent.com/DoCoutoSoft/Repositorio/master/
                 </datadir>
             </dir>
         </extension>

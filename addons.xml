@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+    <addon id="dornamotion.repository" name="[COLOR blue]Dorna[/COLOR][COLOR orange]Motion[/COLOR].[COLOR green]Repositorio[/COLOR]" provider-name="Canal DornaMotion" version="0.0.4">
+        <extension name="DornaMotion Repositorio" point="xbmc.addon.repository">
+            <dir>
+                <info compressed="false">
+                    https://raw.githubusercontent.com/DoCoutoSoft/Repositorio/master/ addons.xml
+                </info>
+                <checksum>
+                    https://raw.githubusercontent.com/DoCoutoSoft/Repositorio/master/ addons.xml.md5
+                </checksum>
+                <datadir zip="true">
+                    https://raw.githubusercontent.com/DoCoutoSoft/Repositorio/master/ 
+                </datadir>
+            </dir>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary lang="es">
+                DornaMotion
+            </summary>
+            <description lang="es">
+                Canal Dorna Motion
+            </description>
+            <forum>
+                en breve
+            </forum>
+            <website>
+                en breve
+            </website>
+            <email>
+                dornamotion@gmail.com
+            </email>
+            <platform>
+                all
+            </platform>
+        </extension>
+    </addon>
+
+    <addon id="plugin.video.crtvg-acarta" name="[COLOR cyan]CRTVG[/COLOR] - Televisión de Galicia" provider-name="Canal DornaMotion" version="2.2.6">
+        <requires>
+            <import addon="xbmc.python" version="2.1.0">
+            </import>
+            <import addon="script.module.addon.common" version="2.0.0">
+            </import>
+        </requires>
+        <extension library="addon.py" point="xbmc.python.pluginsource">
+            <provides>
+                video
+            </provides>
+            <dir>
+                <info compressed="false">
+                    https://raw.githubusercontent.com/DoCoutoSoft/Repositorio/master/ addons.xml
+                </info>
+                <checksum>
+                    https://raw.githubusercontent.com/DoCoutoSoft/Repositorio/master/ addons.xml.md5
+                </checksum>
+                <datadir zip="true">
+                    https://raw.githubusercontent.com/DoCoutoSoft/Repositorio/master/ 
+                </datadir>
+            </dir>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary lang="es">
+                Televisión de Galicia, Á carta
+            </summary>
+            <description lang="es">
+                Ver os contidos á carta da Televisión de Galicia
+            </description>
+            <platform>
+                all
+            </platform>
+            <forum>
+                http://www.crtvg.es/tvg/a-carta
+            </forum>
+            <website>
+                http://www.crtvg.es/tvg/a-carta
+            </website>
+            <email>
+                dornamotion@gmail.com
+            </email>
+        </extension>
+    </addon>
+
+	<addon id="plugin.audio.dorna-tuner" name="Dorna Tuner" provider-name="DORNA MOTION" version="1.5.8">
+			<requires>
+				<import addon="xbmc.python" version="2.1.0"/>
+				<import addon="script.module.requests" version="2.9.1"/>
+			</requires>
+			<extension library="addon.py" point="xbmc.python.pluginsource">
+				<provides>audio</provides>
+			</extension>
+			<extension point="xbmc.addon.metadata">
+				<summary lang="es_es">Escuchar emisoras de radio personalizadas</summary>
+				<description lang="es_es"/>
+				<disclaimer lang="es_es"/>
+				<language/>
+				<platform>all</platform>
+				<license/>
+				<forum/>
+				<website/>
+				<email/>
+				<source/>
+				<news>
+					v1.5.7 (2020-04-20)
+					- Actualización Los 40 Classic
+					v1.5.6 (2020-04-20)
+					- Añadido Radio Patio Cuarentena Online
+					v1.5.5 (2018-03-03)
+					- Actualización tunein.com
+				</news>
+				<assets>
+					<icon>icon.png</icon>
+				</assets>
+			</extension>
+			<extension point="xbmc.addon.repository">
+				<info>https://raw.githubusercontent.com/DoCoutoSoft/Repositorio/master/ addons.xml</info>
+				<checksum>https://raw.githubusercontent.com/DoCoutoSoft/Repositorio/master/ addons.xml.md5</checksum>
+				<datadir zip="true">https://raw.githubusercontent.com/DoCoutoSoft/Repositorio/master/ </datadir>
+			</extension>
+	</addon>
+</addons>

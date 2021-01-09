@@ -31,8 +31,8 @@
 				</assets>
 			</extension>
 			<extension point="xbmc.addon.repository">
-				<info>http://dboxnet.no-ip.org/kodi.plugins/Repositorio/addons.xml</info>
-				<checksum>http://dboxnet.no-ip.org/kodi.plugins/Repositorio/addons.xml.md5</checksum>
-				<datadir zip="true">http://dboxnet.no-ip.org/kodi.plugins/Repositorio/</datadir>
+				<info>https://raw.githubusercontent.com/DoCoutoSoft/Repositorio/master/addons.xml</info>
+				<checksum>https://raw.githubusercontent.com/DoCoutoSoft/Repositorio/master/addons.xml.md5</checksum>
+				<datadir zip="true">https://raw.githubusercontent.com/DoCoutoSoft/Repositorio/master/</datadir>
 			</extension>
 </addon>
