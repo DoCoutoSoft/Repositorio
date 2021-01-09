@@ -1,36 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-    <addon id="dornamotion.repository" name="[COLOR blue]Dorna[/COLOR][COLOR orange]Motion[/COLOR].[COLOR green]Repositorio[/COLOR]" provider-name="Canal DornaMotion" version="0.0.4">
-        <extension name="DornaMotion Repositorio" point="xbmc.addon.repository">
-            <dir>
-                <info compressed="false">
-                   https://docoutosoft.github.io/Repositorio/addons.xml
-                </info>
-                <checksum>
-                    https://docoutosoft.github.io/Repositorio/addons.xml.md5
-                </checksum>
-                <datadir zip="true">
-                    https://docoutosoft.github.io/Repositorio/
-                </datadir>
-            </dir>
-        </extension>
-        <extension point="xbmc.addon.metadata">
-            <summary lang="es">
-                DornaMotion
-            </summary>
-            <description lang="es">
-                Canal Dorna Motion
-            </description>
-            <forum>
-                en breve
-            </forum>
-            <website>
-                en breve
-            </website>
-            <email>
-                dornamotion@gmail.com
-            </email>
-            <platform>
-                all
-            </platform>
-        </extension>
-    </addon>
+<addon id="repository.DornaMotion" name="[COLOR gold]DornaMotion[/COLOR] Repo" version="1.0.1" provider-name="DoCoutoSoft">
+    <extension point="xbmc.addon.repository" name="DornaMotion Repo">
+        <info>https://https://docoutosoft.github.io/Repositorio/addons.xml</info>
+        <checksum>https://docoutosoft.github.io/Repositorio/addons.xml.md5</checksum>
+        <datadir zip="true">https://docoutosoft.github.io/Repositorio/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Repositorio DornaMotion</summary>
+        <description></description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+    </extension>
+</addon>
