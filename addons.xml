@@ -14,12 +14,10 @@
     </extension>
 </addon>
 
-    <addon id="plugin.video.crtvg-acarta" name="[COLOR cyan]CRTVG[/COLOR] - Televisión de Galicia" provider-name="Canal DornaMotion" version="2.2.6">
+    <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+    <addon id="plugin.video.crtvg-acarta" name="[COLOR cyan]CRTVG[/COLOR] - Televisión de Galicia" provider-name="Canal DornaMotion" version="2.2.7">
         <requires>
-            <import addon="xbmc.python" version="2.1.0">
-            </import>
-            <import addon="script.module.addon.common" version="2.0.0">
-            </import>
+
         </requires>
         <extension library="addon.py" point="xbmc.python.pluginsource">
             <provides>
@@ -34,7 +32,7 @@
                 </checksum>
                 <datadir zip="true">
                     https://raw.githubusercontent.com/DoCoutoSoft/Repositorio/master/
-				</datadir>
+                </datadir>
             </dir>
         </extension>
         <extension point="xbmc.addon.metadata">
@@ -58,6 +56,7 @@
             </email>
         </extension>
     </addon>
+
 
 	<addon id="plugin.audio.dorna-tuner" name="Dorna Tuner" provider-name="Canal DornaMotion" version="1.5.8">
 			<requires>
