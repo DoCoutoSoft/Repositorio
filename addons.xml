@@ -14,9 +14,9 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.crtvg-acarta" name="[COLOR cyan]CRTVG[/COLOR] - Televisión de Galicia" provider-name="Canal DornaMotion" version="2.2.7">
+	<addon id="plugin.video.crtvg-acarta" name="[COLOR cyan]CRTVG[/COLOR] - Televisión de Galicia" provider-name="Canal DornaMotion" version="2.2.7">
         <requires>
-			<import addon="xbmc.python" version="2.0"/>
+			<import addon="xbmc.python" version="2.1.0"/>
         </requires>
         <extension library="addon.py" point="xbmc.python.pluginsource">
             <provides>
