@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+    <addon id="plugin.video.crtvg-acarta" name="[COLOR cyan]CRTVG[/COLOR] - Televisión de Galicia" provider-name="Canal DornaMotion" version="2.2.7">
+        <requires>
+			<import addon="xbmc.python" version="2.0"/>
+        </requires>
+        <extension library="addon.py" point="xbmc.python.pluginsource">
+            <provides>
+                video
+            </provides>
+            <dir>
+                <info compressed="false">
+                    https://raw.githubusercontent.com/DoCoutoSoft/Repositorio/master/addons.xml
+                </info>
+                <checksum>
+                    https://raw.githubusercontent.com/DoCoutoSoft/Repositorio/master/addons.xml.md5
+                </checksum>
+                <datadir zip="true">
+                    https://raw.githubusercontent.com/DoCoutoSoft/Repositorio/master/
+                </datadir>
+            </dir>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary lang="es">
+                Televisión de Galicia, Á carta
+            </summary>
+            <description lang="es">
+                Ver os contidos á carta da Televisión de Galicia
+            </description>
+            <platform>
+                all
+            </platform>
+            <forum>
+                http://www.crtvg.es/tvg/a-carta
+            </forum>
+            <website>
+                http://www.crtvg.es/tvg/a-carta
+            </website>
+            <email>
+                dornamotion@gmail.com
+            </email>
+        </extension>
+    </addon>
