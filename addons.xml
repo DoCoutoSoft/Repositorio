@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="repository.dornamotion" name="[COLOR gold]DornaMotion[/COLOR] Repo" version="1.0.1" provider-name="Canal DornaMotion">
+<addon id="repository.dornamotion" name="[COLOR gold]DornaMotion[/COLOR] Repo" version="1.0.2" provider-name="Canal DornaMotion">
     <extension point="xbmc.addon.repository" name="DornaMotion Repo">
         <info>https://raw.githubusercontent.com/DoCoutoSoft/Repositorio/master/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/DoCoutoSoft/Repositorio/master/addons.xml.md5</checksum>
@@ -14,8 +14,7 @@
     </extension>
 </addon>
 
-    <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-    <addon id="plugin.video.crtvg-acarta" name="[COLOR cyan]CRTVG[/COLOR] - Televisión de Galicia" provider-name="Canal DornaMotion" version="2.2.7">
+<addon id="plugin.video.crtvg-acarta" name="[COLOR cyan]CRTVG[/COLOR] - Televisión de Galicia" provider-name="Canal DornaMotion" version="2.2.7">
         <requires>
 			<import addon="xbmc.python" version="2.0"/>
         </requires>
